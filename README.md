@@ -70,7 +70,7 @@ This is the list of required external files for the game.
 ---
 
 ## 5. Milestones
-This plan is broken into runnable steps, each corresponding to a major git commit.
+This plan is broken into runnable steps.
 
 1.  **Project Setup & Background Display**:
     * Create the main game window and the `MainScene` class. Load and display the static background image.
